@@ -1,0 +1,3 @@
+mongoServer: localhost
+mongoPort: 27017
+databaseName: appdb
